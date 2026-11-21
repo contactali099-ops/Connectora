@@ -1,0 +1,6 @@
+{
+  "name": "Connectora",
+  "description": "An international 18+ platform for meaningful friendships, social connections, serious relationships, and life-partner discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
